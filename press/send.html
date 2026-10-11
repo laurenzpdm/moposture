@@ -1,0 +1,12 @@
+<!doctype html><meta charset="utf-8"><title>send</title>
+<script>
+// Hands a press image to the window that opened this page (used to attach images to our own X posts).
+(async () => {
+  const f = new URLSearchParams(location.search).get('f') || '';
+  if (!/^[a-z0-9_]+\.(jpg|png|mp4)$/.test(f) || !window.opener) { document.body.textContent = 'nothing to send'; return; }
+  const b = await (await fetch(f)).blob();
+  window.opener.postMessage({ name: f, blob: b }, 'https://x.com');
+  document.body.textContent = 'sent ' + b.size;
+  setTimeout(() => window.close(), 500);
+})();
+</script>
