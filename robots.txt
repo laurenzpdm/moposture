@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://laurenzpdm.github.io/moposture/sitemap.xml
