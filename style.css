@@ -13,6 +13,6 @@ ol,ul{padding-left:1.3em}li{margin:.35em 0}.note{font-size:16px}footer{margin-to
 .btn{display:inline-block;background:var(--sage);color:#fff;text-decoration:none;font-weight:600;padding:12px 20px;border-radius:14px;margin:4px 6px 4px 0}
 /* STORE BUTTONS SWITCH (one place). Current state (2026-10-14): Android is LIVE on Google Play, iOS is still in App Store review.
    Google Play badge is shown, the App Store badge (.badge-as) is hidden, and the "iPhone coming soon" note (.cta-soon) is shown.
-   When iOS goes live, change the line below to: .cta-stores{display:block}.badge-as{display:inline-block}.cta-soon{display:none}
-   (both badges visible, note hidden). Then delete this comment's "current state" line. */
-.cta-stores{display:block}.badge-as{display:none}.cta-soon{display:block}
+   When iOS goes live, change the line below to: .cta-stores{display:block}.badge-as{display:inline-block!important}.cta-soon{display:none}
+   (both badges visible, note hidden). Then update this comment. */
+.cta-stores{display:block}.badge-as{display:none!important}.cta-soon{display:block}
