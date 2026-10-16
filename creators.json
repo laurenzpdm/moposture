@@ -1,1 +1,13 @@
-{"version":1,"creators":{}}
+{
+  "version": 1,
+  "creators": {
+    "SKYLER": {
+      "name": "Skyler Munro",
+      "active": true
+    },
+    "KAMILA": {
+      "name": "Kamila (rasvitality)",
+      "active": true
+    }
+  }
+}
