@@ -8,6 +8,14 @@
     "KAMILA": {
       "name": "Kamila (rasvitality)",
       "active": true
+    },
+    "DRJEN": {
+      "name": "tech_neck_posture_solution",
+      "active": true
+    },
+    "DRJOSH": {
+      "name": "thepainfixdoc",
+      "active": true
     }
   }
 }
