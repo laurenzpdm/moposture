@@ -68,3 +68,4 @@ The guides are general information, not medical advice.
 
 - [Nackenschmerzen: 3 sanfte Übungen zum Nachmachen](https://laurenzpdm.github.io/moposture/de/nackenschmerzen-uebungen/)
 - [Haltung verbessern: 5 Übungen für zu Hause](https://laurenzpdm.github.io/moposture/de/haltung-verbessern-uebungen/)
+- [Exercícios para dor nas costas: 4 movimentos para fazer em casa](https://laurenzpdm.github.io/moposture/pt-br/exercicios-para-dor-nas-costas/)
