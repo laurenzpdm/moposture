@@ -70,3 +70,4 @@ The guides are general information, not medical advice.
 - [Haltung verbessern: 5 Übungen für zu Hause](https://laurenzpdm.github.io/moposture/de/haltung-verbessern-uebungen/)
 - [Exercícios para dor nas costas: 4 movimentos para fazer em casa](https://laurenzpdm.github.io/moposture/pt-br/exercicios-para-dor-nas-costas/)
 - [Ejercicios para el dolor de espalda: 4 movimientos para hacer en casa](https://laurenzpdm.github.io/moposture/es/ejercicios-para-el-dolor-de-espalda/)
+- [Exercices pour le mal de dos : 4 mouvements à faire chez soi](https://laurenzpdm.github.io/moposture/fr/exercices-mal-de-dos/)
