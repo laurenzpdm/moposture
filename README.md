@@ -11,6 +11,7 @@ The guides are general information, not medical advice.
 
 ## Exercise guides
 
+- [Text neck calculator (free tool)](https://laurenzpdm.github.io/moposture/exercises/text-neck-calculator/)
 - [5-minute desk stretch routine with a free timer](https://laurenzpdm.github.io/moposture/exercises/5-minute-desk-stretch-routine/)
 - [Bird dog exercise for your back: how to do it](https://laurenzpdm.github.io/moposture/exercises/bird-dog-exercise-for-back/)
 - [Cat-cow stretch for lower back stiffness](https://laurenzpdm.github.io/moposture/exercises/cat-cow-stretch-for-lower-back-stiffness/)
