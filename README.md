@@ -56,6 +56,7 @@ The guides are general information, not medical advice.
 - [Standing hamstring stretch for tight hamstrings: how to do it](https://laurenzpdm.github.io/moposture/exercises/hamstring-stretch-for-tight-hamstrings-at-desk/)
 - [Standing side bend: how to do it](https://laurenzpdm.github.io/moposture/exercises/standing-side-bend-for-back-stiffness/)
 - [Woke up with a stiff neck? What helps, step by step](https://laurenzpdm.github.io/moposture/exercises/woke-up-with-a-stiff-neck/)
+- [Desk setup for good posture: a 9-point checklist](https://laurenzpdm.github.io/moposture/exercises/desk-setup-for-good-posture/)
 - [Stiff neck: 3 gentle moves to ease tension](https://laurenzpdm.github.io/moposture/exercises/stiff-neck-gentle-moves/)
 - [TMJ exercises at home: 6 gentle jaw moves](https://laurenzpdm.github.io/moposture/exercises/tmj-exercises-at-home/)
 - [Tech neck exercises: 3 gentle moves](https://laurenzpdm.github.io/moposture/exercises/tech-neck-exercises/)
