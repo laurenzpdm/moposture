@@ -73,6 +73,7 @@ The guides are general information, not medical advice.
 - [Haltung verbessern: 5 Übungen für zu Hause](https://laurenzpdm.github.io/moposture/de/haltung-verbessern-uebungen/)
 - [Rückenschmerzen im unteren Rücken: 4 sanfte Übungen](https://laurenzpdm.github.io/moposture/de/rueckenschmerzen-uebungen/)
 - [Exercícios para dor nas costas: 4 movimentos para fazer em casa](https://laurenzpdm.github.io/moposture/pt-br/exercicios-para-dor-nas-costas/)
+- [Exercícios para dor no pescoço: 4 movimentos suaves para fazer sentado](https://laurenzpdm.github.io/moposture/pt-br/exercicios-para-dor-no-pescoco/)
 - [Ejercicios para el dolor de espalda: 4 movimientos para hacer en casa](https://laurenzpdm.github.io/moposture/es/ejercicios-para-el-dolor-de-espalda/)
 - [Ejercicios para el dolor de cuello: 4 movimientos para hacer en casa o en el escritorio](https://laurenzpdm.github.io/moposture/es/ejercicios-para-el-dolor-de-cuello/)
 - [Упражнения для шеи при боли: 4 простых движения сидя за столом](https://laurenzpdm.github.io/moposture/ru/uprazhneniya-dlya-shei/)
