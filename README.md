@@ -75,5 +75,6 @@ The guides are general information, not medical advice.
 - [Exercícios para dor nas costas: 4 movimentos para fazer em casa](https://laurenzpdm.github.io/moposture/pt-br/exercicios-para-dor-nas-costas/)
 - [Ejercicios para el dolor de espalda: 4 movimientos para hacer en casa](https://laurenzpdm.github.io/moposture/es/ejercicios-para-el-dolor-de-espalda/)
 - [Ejercicios para el dolor de cuello: 4 movimientos para hacer en casa o en el escritorio](https://laurenzpdm.github.io/moposture/es/ejercicios-para-el-dolor-de-cuello/)
+- [Упражнения для шеи при боли: 4 простых движения сидя за столом](https://laurenzpdm.github.io/moposture/ru/uprazhneniya-dlya-shei/)
 - [Exercices pour le mal de dos : 4 mouvements à faire chez soi](https://laurenzpdm.github.io/moposture/fr/exercices-mal-de-dos/)
 - [Esercizi per la cervicale: 4 movimenti da fare a casa o alla scrivania](https://laurenzpdm.github.io/moposture/it/esercizi-per-la-cervicale/)
