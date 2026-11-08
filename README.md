@@ -81,3 +81,4 @@ The guides are general information, not medical advice.
 - [Exercices pour le mal de dos : 4 mouvements à faire chez soi](https://laurenzpdm.github.io/moposture/fr/exercices-mal-de-dos/)
 - [Exercices pour les cervicales : 4 mouvements doux contre le mal de cou](https://laurenzpdm.github.io/moposture/fr/exercices-pour-les-cervicales/)
 - [Esercizi per la cervicale: 4 movimenti da fare a casa o alla scrivania](https://laurenzpdm.github.io/moposture/it/esercizi-per-la-cervicale/)
+- [Esercizi per il mal di schiena: 4 movimenti da fare a casa](https://laurenzpdm.github.io/moposture/it/esercizi-per-il-mal-di-schiena/)
